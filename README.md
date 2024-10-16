@@ -8,7 +8,7 @@
 
 📫 How to reach me: [akashgupta85709@gmail.com](mailto:akashgupta85709@gmail.com)
 
-🌍 My Portfolio: [akashgupta857portfolio.netlify.app](https://akashgupta857portfolio.netlify.app/)
+🌍 My Portfolio: [akashgupta857portfolio2.netlify.app](https://akashgupta857portfolio2.netlify.app/)
 
 ## Projects
 - **E-commerce Platform**: A user-friendly platform for browsing and purchasing products online.
